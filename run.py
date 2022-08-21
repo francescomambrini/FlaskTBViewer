@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 from tbviewer import app
 from dotenv import load_dotenv
 import os
